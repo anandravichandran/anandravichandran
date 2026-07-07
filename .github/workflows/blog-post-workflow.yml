@@ -1,0 +1,37 @@
+# =============================================================================
+# Blog Posts & Recent Repositories — Auto-updates README.md
+# Uses gautamkrishnar/blog-post-workflow to fetch RSS/Atom feeds
+# =============================================================================
+name: Blog Posts & Recent Repos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: |
+            https://medium.com/feed/@<<MEDIUM_HANDLE>>
+            https://<<HASHNODE_HANDLE>>.hashnode.dev/rss.xml
+            https://<<SUBSTACK_HANDLE>>.substack.com/feed
+          gh_token: ${{ secrets.GH_TOKEN }}
+          max_post_count: 5
+          comment_tag_name: BLOG-POST-LIST
+
+  update-recent-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://github.com/anandravichandran.atom"
+          gh_token: ${{ secrets.GH_TOKEN }}
+          max_post_count: 5
+          comment_tag_name: RECENT-REPOS
+          template: "- [$title]($url)"
