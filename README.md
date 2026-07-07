@@ -277,30 +277,7 @@ Event-Driven Architecture, Distributed Systems Design, Workflow Orchestration, R
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@anandravichandran127)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://anandravichandran.substack.com)
 
-### Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Latest Repositories
-
-<!-- RECENT-REPOS:START -->
-<!-- RECENT-REPOS:END -->
-
----
-
-
-
-
-
-## Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ## Roadmap — 2026
 
