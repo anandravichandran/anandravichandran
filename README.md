@@ -291,38 +291,9 @@ Event-Driven Architecture, Distributed Systems Design, Workflow Orchestration, R
 
 ---
 
-## GitHub Stats
 
-<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anandravichandran&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandravichandran&layout=compact&hide_border=true&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=anandravichandran&hide_border=true&theme=github-dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandravichandran&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
-
-</div>
-
-### Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/anandravichandran/anandravichandran/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/anandravichandran/anandravichandran/main/github-metrics.svg)
-
-</div>
-
----
 
 ## Coding Activity (WakaTime)
 
