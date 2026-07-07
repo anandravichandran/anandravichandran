@@ -274,9 +274,8 @@ Event-Driven Architecture, Distributed Systems Design, Workflow Orchestration, R
 
 ## Technical Writing
 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@<<MEDIUM_HANDLE>>)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://<<HASHNODE_HANDLE>>.hashnode.dev)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://<<SUBSTACK_HANDLE>>.substack.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@anandravichandran127)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://anandravichandran.substack.com)
 
 ### Latest Articles
 

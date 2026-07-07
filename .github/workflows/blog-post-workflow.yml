@@ -17,9 +17,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://medium.com/feed/@<<MEDIUM_HANDLE>>
-            https://<<HASHNODE_HANDLE>>.hashnode.dev/rss.xml
-            https://<<SUBSTACK_HANDLE>>.substack.com/feed
+            https://medium.com/feed/@anandravichandran127
+            https://anandravichandran.substack.com/feed
           gh_token: ${{ secrets.GH_TOKEN }}
           max_post_count: 5
           comment_tag_name: BLOG-POST-LIST
