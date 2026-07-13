@@ -116,7 +116,7 @@ I turn ambiguous business requirements into reliable, measurable, production-gra
 **Tech Stack:** Python, FastAPI, LangChain, pgvector, MongoDB, Redis, Docker, AWS
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/anandravichandran/carebank)
-[![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://<<DEMO_4>>)
+[![Demo] (https://care-bank-update-ai-version.vercel.app/)
 
 ---
 
