@@ -17,13 +17,13 @@
 
 ## About Me
 
-Associate Full Stack AI Engineer with **2+ years** shipping enterprise AI systems in production. I design and deploy LLM-powered applications — from AI agents and RAG pipelines to the cloud-native infrastructure that runs them at scale.
+Associate Full Stack AI Engineer with **3+ years** shipping enterprise AI systems in production. I design and deploy LLM-powered applications — from AI agents and RAG pipelines to the cloud-native infrastructure that runs them at scale.
 
 I turn ambiguous business requirements into reliable, measurable, production-grade AI systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/<<LINKEDIN_HANDLE>>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<<EMAIL>>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ravichandran-ai/<<LINKEDIN_HANDLE>>)
+##[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandravichandran127@gmail.com<<EMAIL>>)
 [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=flat&logo=readdotcv&logoColor=white)](https://<<RESUME_URL>>)
 
 ---
