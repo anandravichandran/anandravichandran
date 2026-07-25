@@ -291,8 +291,8 @@ Event-Driven Architecture, Distributed Systems Design, Workflow Orchestration, R
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/<<LINKEDIN_HANDLE>>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ravichandran-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<<EMAIL>>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandravichandran127@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=flat&logo=readdotcv&logoColor=white)](https://<<RESUME_URL>>)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/<<X_HANDLE>>)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tech_Polymath)
