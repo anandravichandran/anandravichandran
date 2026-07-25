@@ -22,7 +22,7 @@ Associate Full Stack AI Engineer with **3+ years** shipping enterprise AI system
 I turn ambiguous business requirements into reliable, measurable, production-grade AI systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ravichandran-ai/<<LINKEDIN_HANDLE>>)
-##[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandravichandran127@gmail.com<<EMAIL>>)
 [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=flat&logo=readdotcv&logoColor=white)](https://<<RESUME_URL>>)
 
