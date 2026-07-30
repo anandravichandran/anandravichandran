@@ -1,10 +1,3 @@
-<!-- ============================================================================ -->
-<!--  GITHUB PROFILE README                                                        -->
-<!--  anandravichandran                                                            -->
-<!--  Replace every <<PLACEHOLDER>> below with your actual handles/URLs            -->
-<!--  .github/workflows/ contains the workflow files that power auto-updates      -->
-<!-- ============================================================================ -->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Associate+Full+Stack+AI+Engineer;Enterprise+AI+%7C+LLMs+%7C+AI+Agents+%7C+RAG;Building+production+AI+for+real-world+problems)](https://git.io/typing-svg)
