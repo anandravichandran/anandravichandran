@@ -17,7 +17,7 @@ I turn ambiguous business requirements into reliable, measurable, production-gra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ravichandran-ai/<<LINKEDIN_HANDLE>>)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://<<PORTFOLIO_URL>>)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandravichandran127@gmail.com<<EMAIL>>)
-[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=flat&logo=readdotcv&logoColor=white)](https://<<RESUME_URL>>)
+[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=flat&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1X9oFCoM29XM8VWgJ3SpQ4bCG5vIWBCWu/view)
 
 ---
 
